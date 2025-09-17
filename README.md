@@ -1,3 +1,3 @@
 # lab2-project
- update readme
+ проект с калькулятором 
  
